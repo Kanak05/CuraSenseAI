@@ -1,0 +1,330 @@
+[
+    {
+        "Disease":"Drug Reaction",
+        "Description":"An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.",
+        "symptoms":"rash, itching, hives, redness of skin, swelling of lips, swelling of face, swelling of tongue, fever, chills, shortness of breath, wheezing, cough, chest tightness, dizziness, lightheadedness, fainting, nausea, vomiting, diarrhea, abdominal pain, joint pain, muscle pain, fatigue, headache, blurred vision, jaundice, dark urine, pale stools, peeling skin, blistering skin, mouth ulcers, sore throat, confusion, agitation, irregular heartbeat, low blood pressure, high blood pressure, anaphylaxis",
+        "causes_and_risk_factors":"certain medications, overuse of drugs, allergies to drugs, high doses, multiple drug interactions, genetic predisposition, liver or kidney dysfunction, age (elderly or very young), previous drug reactions",
+        "diagnosis_methods":"clinical history, physical examination, allergy testing, skin patch test, blood tests, liver\/kidney function tests",
+        "prevention":"Avoid unnecessary medications, consult doctor before new drugs, monitor for side effects"
+    },
+    {
+        "Disease":"Malaria",
+        "Description":"An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type.",
+        "symptoms":"fever, chills, sweating, headache, nausea, vomiting, diarrhea, abdominal pain, muscle pain, joint pain, fatigue, weakness, cough, rapid breathing, rapid heart rate, loss of appetite, anemia, jaundice, enlarged spleen, confusion, seizures, coma",
+        "causes_and_risk_factors":"Plasmodium parasite, mosquito bites (Anopheles), travel to endemic areas, weak immunity, poor mosquito control, stagnant water, low use of insect repellent or nets",
+        "diagnosis_methods":"blood smear (thick and thin), rapid diagnostic test (RDT), PCR",
+        "prevention":"Use mosquito nets, insect repellents, eliminate stagnant water, take prophylactic medications if traveling to endemic areas"
+    },
+    {
+        "Disease":"Allergy",
+        "Description":"An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.",
+        "symptoms":"sneezing, runny nose, nasal congestion, itchy nose, itchy eyes, watery eyes, red eyes, swelling around eyes, itchy throat, sore throat, cough, wheezing, shortness of breath, chest tightness, skin rash, hives, itching, swelling of lips, swelling of tongue, swelling of face, dry skin, peeling skin, eczema flare-ups, nausea, vomiting, diarrhea, abdominal pain, dizziness, lightheadedness, fainting, anaphylaxis",
+        "causes_and_risk_factors":"pollen, dust mites, animal dander, certain foods, insect stings, medications, latex, genetic predisposition, pollution, mold exposure, immune system hypersensitivity",
+        "diagnosis_methods":"skin prick test, blood test for IgE, patch test, elimination diet",
+        "prevention":"Avoid known allergens, use hypoallergenic products, maintain clean environment,"
+    },
+    {
+        "Disease":"Hypothyroidism",
+        "Description":"Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.",
+        "symptoms":"fatigue, weakness, weight gain, cold intolerance, dry skin, pale skin, puffy face, hoarseness, slow heart rate, constipation, depression, memory problems, slow thinking, difficulty concentrating, brittle hair, hair loss, coarse hair, thinning eyebrows, brittle nails, swelling of hands, swelling of feet, swelling of legs, puffiness around eyes, goiter, pale swollen tongue, husky voice, slow reflexes, joint pain, muscle aches, muscle stiffness, carpal tunnel syndrome, slow movements, puffy hands, low body temperature, swelling in ankles, swelling in feet, anemia, low appetite, puffy skin (myxedema), thickened skin, pale complexion, yellowish skin, infertility, menstrual irregularities, heavy periods, decreased sweating, slow speech, enlarged thyroid, dry brittle hair, puffy eyelids, slow growth (in children), poor school performance (in children), developmental delay (in infants), hoarse cry (in infants)",
+        "causes_and_risk_factors":"iodine deficiency, Hashimoto\u2019s thyroiditis, thyroid surgery, radiation therapy, certain medications (lithium, amiodarone), congenital factors, autoimmune disorders",
+        "diagnosis_methods":"TSH test, Free T4, Free T3, thyroid antibodies",
+        "prevention":"Regular checkups, maintain balanced diet, take prescribed thyroid medication,"
+    },
+    {
+        "Disease":"Psoriasis",
+        "Description":"Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.",
+        "symptoms":"red patches of skin, silvery white scales, thickened skin, dry skin, cracked skin, itching, burning sensation, soreness, stinging sensation, pain in affected areas, thickened nails, pitted nails, ridged nails, discolored nails, nail separation from nail bed, scalp flaking, dandruff-like scaling, joint pain, joint stiffness, swollen joints, fatigue",
+        "causes_and_risk_factors":"genetic predisposition, immune system dysfunction, infections, stress, obesity, cold weather, smoking, alcohol consumption, certain medications (beta-blockers, lithium)",
+        "diagnosis_methods":"physical examination, skin biopsy, medical history",
+        "prevention":"Avoid triggers like stress, maintain skin hygiene, follow treatment plan,"
+    },
+    {
+        "Disease":"GERD",
+        "Description":"Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.",
+        "symptoms":"heartburn, chest pain, regurgitation of food, regurgitation of sour liquid, bitter taste in mouth, difficulty swallowing, sensation of lump in throat, sore throat, hoarseness, chronic cough, asthma-like symptoms, wheezing, shortness of breath, bad breath, nausea, vomiting, bloating, burping, hiccups, dental erosion, disrupted sleep, worsening of symptoms at night, worsening of symptoms after meals",
+        "causes_and_risk_factors":"weakened lower esophageal sphincter, obesity, pregnancy, hiatal hernia, smoking, alcohol, caffeine, fatty or spicy foods, delayed gastric emptying, certain medications (NSAIDs, calcium channel blockers)",
+        "diagnosis_methods":"endoscopy, pH monitoring, esophageal manometry, barium swallow",
+        "prevention":"Avoid spicy\/fatty foods, eat smaller meals, avoid lying down after eating, maintain healthy weight,"
+    },
+    {
+        "Disease":"Chronic cholestasis",
+        "Description":"Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases",
+        "symptoms":"jaundice, yellowing of skin, yellowing of eyes, dark urine, pale stools, clay-colored stools, pruritus (itching), fatigue, weakness, loss of appetite, weight loss, nausea, vomiting, abdominal pain, right upper quadrant discomfort, enlarged liver, enlarged spleen, dry skin, xanthomas, xanthelasma, easy bruising, bleeding tendency, brittle nails, bone pain, osteoporosis, osteomalacia, fat-soluble vitamin deficiency, night blindness, rickets (in children), delayed growth (in children), impaired fertility",
+        "causes_and_risk_factors":"bile duct obstruction, primary biliary cholangitis, liver diseases (hepatitis, cirrhosis), certain medications, infections, genetic disorders, autoimmune disorders, tumors, gallstones",
+        "diagnosis_methods":"liver function tests, ultrasound, MRCP, liver biopsy",
+        "prevention":"Avoid alcohol, maintain healthy weight, follow medical advice,"
+    },
+    {
+        "Disease":"hepatitis A",
+        "Description":"Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.",
+        "symptoms":"fever, fatigue, weakness, loss of appetite, nausea, vomiting, abdominal pain, right upper quadrant pain, diarrhea, dark urine, pale stools, jaundice, yellowing of skin, yellowing of eyes, joint pain, muscle pain, itching, headache, sore throat, clay-colored stools, weight loss, low-grade fever",
+        "causes_and_risk_factors":"ingestion of contaminated food or water, poor sanitation, close contact with infected person, travel to endemic areas, raw or undercooked shellfish",
+        "diagnosis_methods":"IgM anti-HAV antibody, liver function tests, PCR (rarely)",
+        "prevention":"Get vaccinated, practice good hygiene, avoid contaminated food\/water,"
+    },
+    {
+        "Disease":"Osteoarthristis",
+        "Description":"Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.",
+        "symptoms":"joint pain, joint stiffness, swelling of joints, tenderness in joints, decreased range of motion, grating sensation, crepitus, bony enlargement, joint deformity, joint instability, muscle weakness around joints, morning stiffness (lasting less than 30 minutes), pain that worsens with activity, pain that improves with rest, difficulty walking, difficulty climbing stairs, difficulty gripping objects, fatigue",
+        "causes_and_risk_factors":"aging, joint injury, repetitive stress, obesity, genetics, gender (female), bone deformities, joint overuse, metabolic disorders",
+        "diagnosis_methods":"X-ray, MRI, physical examination, joint aspiration",
+        "prevention":"Maintain healthy weight, regular exercise, avoid joint overuse,"
+    },
+    {
+        "Disease":"(vertigo) Paroymsal Positional Vertigo",
+        "Description":"Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo \u00e2\u20ac\u201d the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness.",
+        "symptoms":"spinning sensation, dizziness, loss of balance, unsteadiness, nausea, vomiting, lightheadedness, blurred vision, abnormal eye movements (nystagmus), disorientation, motion sensitivity, headache, ringing in ears (tinnitus), difficulty concentrating, anxiety during episodes",
+        "causes_and_risk_factors":"displacement of inner ear crystals (otoconia), head trauma, inner ear infections, age-related degeneration, certain vestibular disorders",
+        "diagnosis_methods":"Dix-Hallpike maneuver, clinical history, vestibular testing",
+        "prevention":"Avoid sudden head movements, perform vestibular exercises,"
+    },
+    {
+        "Disease":"Hypoglycemia",
+        "Description":"Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions \u00e2\u20ac\u201d many rare \u00e2\u20ac\u201d can cause low blood sugar in people who don't have diabetes.",
+        "symptoms":"shakiness, tremors, sweating, chills, clammy skin, nervousness, anxiety, irritability, confusion, difficulty concentrating, dizziness, lightheadedness, headache, blurred vision, double vision, slurred speech, tingling lips, tingling tongue, tingling fingers, weakness, fatigue, hunger, nausea, rapid heartbeat, palpitations, pale skin, lack of coordination, difficulty walking, strange behavior, mood changes, seizures, loss of consciousness, coma",
+        "causes_and_risk_factors":"excessive insulin, diabetes medications, skipping meals, excessive alcohol intake, endocrine disorders, critical illnesses, hormone deficiencies, intense exercise",
+        "diagnosis_methods":"blood glucose test, fasting test, oral glucose tolerance test, insulin and C-peptide levels",
+        "prevention":"Eat regular meals, avoid skipping meals, monitor blood sugar,"
+    },
+    {
+        "Disease":"Acne",
+        "Description":"Acne vulgaris is the formation of comedones, papules, pustules, nodules, and\/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.",
+        "symptoms":"blackheads, whiteheads, papules, pustules, nodules, cysts, redness, swelling, skin tenderness, pain in lesions, oily skin, clogged pores, scarring, dark spots, hyperpigmentation, pitted scars, thickened skin, skin sensitivity, psychological distress, low self-esteem",
+        "causes_and_risk_factors":"hormonal changes (puberty, menstruation), excess sebum production, clogged pores, bacteria (Propionibacterium acnes), genetics, stress, certain medications, diet (high glycemic foods, dairy)",
+        "diagnosis_methods":"physical examination, medical history, hormone tests (if severe)",
+        "prevention":"Maintain facial hygiene, avoid oily cosmetics, balanced diet,"
+    },
+    {
+        "Disease":"Diabetes",
+        "Description":"Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy.",
+        "symptoms":"frequent urination, excessive thirst, excessive hunger, unexplained weight loss, fatigue, weakness, blurred vision, slow wound healing, frequent infections, dry mouth, dry skin, itchy skin, numbness in hands, numbness in feet, tingling in hands, tingling in feet, recurrent gum infections, recurrent yeast infections, recurrent urinary tract infections, irritability, mood changes, headaches, dizziness, nausea, vomiting, fruity-smelling breath, abdominal pain, confusion, difficulty concentrating, poor circulation, darkened skin patches (acanthosis nigricans), decreased libido, erectile dysfunction",
+        "causes_and_risk_factors":"genetic predisposition, obesity, physical inactivity, insulin resistance, poor diet, age, gestational diabetes history, autoimmune disorders (type 1)",
+        "diagnosis_methods":"fasting blood sugar, HbA1c, oral glucose tolerance test, random blood sugar",
+        "prevention":"Healthy diet, regular exercise, maintain healthy weight, monitor blood sugar,"
+    },
+    {
+        "Disease":"Impetigo",
+        "Description":"Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.",
+        "symptoms":"red sores, small blisters, fluid-filled blisters, ruptured blisters, honey-colored crusts, oozing sores, itching, soreness, skin redness, swelling around sores, painful lesions, spreading rash, clusters of lesions, facial sores (especially around nose and mouth), sores on arms, sores on legs, swollen lymph nodes, mild fever, general discomfort",
+        "causes_and_risk_factors":"Staphylococcus aureus infection, Streptococcus pyogenes infection, poor hygiene, cuts or insect bites, warm and humid climate, crowded living conditions",
+        "diagnosis_methods":"physical examination, bacterial culture, Gram staining",
+        "prevention":"Maintain hygiene, avoid contact with infected persons,"
+    },
+    {
+        "Disease":"Hypertension",
+        "Description":"Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.",
+        "symptoms":"headache, dizziness, lightheadedness, blurred vision, double vision, nosebleeds, shortness of breath, chest pain, palpitations, fatigue, weakness, confusion, nausea, vomiting, anxiety, restlessness, buzzing in ears (tinnitus), irregular heartbeat, sweating, trouble sleeping",
+        "causes_and_risk_factors":"genetic predisposition, obesity, high salt intake, physical inactivity, smoking, stress, excessive alcohol, age, chronic kidney disease, endocrine disorders",
+        "diagnosis_methods":"blood pressure measurement, ambulatory blood pressure monitoring, urine and blood tests (secondary causes)",
+        "prevention":"Reduce salt intake, exercise regularly, maintain healthy weight,"
+    },
+    {
+        "Disease":"Peptic ulcer diseae",
+        "Description":"Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.",
+        "symptoms":"burning stomach pain, gnawing abdominal pain, pain between meals, pain at night, bloating, fullness, early satiety, belching, nausea, vomiting, vomiting blood, black stools, dark tarry stools, weight loss, loss of appetite, heartburn, indigestion, chest discomfort, fatigue, anemia, pallor, dizziness, fainting",
+        "causes_and_risk_factors":"Helicobacter pylori infection, long-term NSAID use, excessive alcohol, smoking, stress, spicy foods, genetic predisposition, Zollinger-Ellison syndrome",
+        "diagnosis_methods":"endoscopy, H. pylori test (urea breath test, stool antigen, biopsy), barium swallow",
+        "prevention":"Avoid NSAIDs overuse, avoid spicy foods, manage stress,"
+    },
+    {
+        "Disease":"Dimorphic hemorrhoids(piles)",
+        "Description":"Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease .",
+        "symptoms":"rectal bleeding, blood in stool, blood on toilet paper, anal pain, anal discomfort, anal itching, anal irritation, swelling around anus, lump near anus, mucus discharge, soiling of underwear, feeling of incomplete evacuation, prolapse of hemorrhoid, painful bowel movements, constipation, straining during stools, tenderness around anus, throbbing sensation, difficulty sitting, anemia (from chronic bleeding)",
+        "causes_and_risk_factors":"chronic constipation, straining during bowel movements, prolonged sitting, pregnancy, obesity, low fiber diet, aging, portal hypertension",
+        "diagnosis_methods":"physical examination, anoscopy, sigmoidoscopy, colonoscopy (if needed)",
+        "prevention":"High-fiber diet, avoid straining, drink plenty of water,"
+    },
+    {
+        "Disease":"Common Cold",
+        "Description":"The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.",
+        "symptoms":"runny nose, nasal congestion, sneezing, sore throat, scratchy throat, coughing, mild headache, mild fever, fatigue, tiredness, watery eyes, itchy eyes, post-nasal drip, mild body aches, chills, loss of appetite, hoarseness, mild sinus pressure, ear congestion, irritability, mild nausea",
+        "causes_and_risk_factors":"rhinovirus infection, coronavirus infection, adenovirus, weakened immunity, close contact with infected person, seasonal changes, crowded places, poor hygiene",
+        "diagnosis_methods":"clinical examination, medical history, throat\/nasal swab (rarely)",
+        "prevention":"Wash hands regularly, avoid close contact with infected persons,"
+    },
+    {
+        "Disease":"Chicken pox",
+        "Description":"Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.",
+        "symptoms":"fever, fatigue, tiredness, loss of appetite, headache, body aches, itchy rash, red spots, small fluid-filled blisters, blisters that crust over, rash starting on face, rash spreading to trunk, rash spreading to arms and legs, sore throat, cough, runny nose, irritability, mild abdominal discomfort, swollen lymph nodes, malaise, chills, secondary bacterial infection of blisters",
+        "causes_and_risk_factors":"Varicella-zoster virus infection, exposure to infected person, weakened immunity, not vaccinated",
+        "diagnosis_methods":"clinical examination, history of exposure, PCR (rarely), serology",
+        "prevention":"Get vaccinated, avoid contact with infected persons,"
+    },
+    {
+        "Disease":"Cervical spondylosis",
+        "Description":"Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs).",
+        "symptoms":"neck pain, neck stiffness, shoulder pain, arm pain, numbness in arms, tingling in arms, weakness in arms, headaches, dizziness, vertigo, loss of balance, fatigue, muscle spasms, reduced range of motion in neck, grinding or cracking sound in neck, difficulty turning head, pain radiating to upper back, pain radiating to hands, difficulty walking, clumsiness in hands, difficulty with fine motor skills, neck swelling, tenderness in neck muscles, radiating pain to chest",
+        "causes_and_risk_factors":"age-related wear and tear, poor posture, repetitive neck movements, neck injuries, obesity, genetics, smoking, sedentary lifestyle",
+        "diagnosis_methods":"X-ray, MRI, CT scan, physical examination, neurological tests",
+        "prevention":"Maintain correct posture, regular neck\/back exercises,"
+    },
+    {
+        "Disease":"Hyperthyroidism",
+        "Description":"Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.",
+        "symptoms":"weight loss, increased appetite, rapid heartbeat, palpitations, irregular heartbeat, nervousness, anxiety, irritability, tremors, shakiness, sweating, heat intolerance, warm skin, hair thinning, hair loss, brittle hair, fatigue, muscle weakness, frequent bowel movements, diarrhea, sleep disturbances, difficulty sleeping, bulging eyes (exophthalmos), eye irritation, blurred vision, double vision, goiter, enlarged thyroid, swelling in neck, rapid reflexes, menstrual irregularities, reduced menstrual flow, increased thirst, frequent urination, hand tremors, restlessness, emotional lability",
+        "causes_and_risk_factors":"Graves\u2019 disease, thyroid nodules, excessive iodine intake, autoimmune disorders, thyroid inflammation (thyroiditis), certain medications, genetics",
+        "diagnosis_methods":"TSH test, Free T4, Free T3, thyroid scan, thyroid antibodies",
+        "prevention":"Regular checkups, follow medication plan, avoid excess iodine,"
+    },
+    {
+        "Disease":"Urinary tract infection",
+        "Description":"Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.",
+        "symptoms":"frequent urination, urgent urination, burning sensation during urination, painful urination, cloudy urine, foul-smelling urine, blood in urine, lower abdominal pain, pelvic pain, flank pain, back pain, fever, chills, nausea, vomiting, fatigue, malaise, lower urinary tract discomfort, incomplete bladder emptying, urinary incontinence, nocturia (frequent urination at night), urgency with little urine, confusion (especially in elderly), strong-smelling urine",
+        "causes_and_risk_factors":"E. coli infection, poor hygiene, sexual activity, urinary retention, catheters, diabetes, weakened immunity, kidney stones, female anatomy",
+        "diagnosis_methods":"urine analysis, urine culture, urine microscopy, imaging (if recurrent)",
+        "prevention":"Drink plenty of water, maintain hygiene, urinate regularly,"
+    },
+    {
+        "Disease":"Varicose veins",
+        "Description":"A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.",
+        "symptoms":"visible twisted veins, bulging veins, blue or dark purple veins, aching legs, heaviness in legs, throbbing in legs, burning sensation in legs, muscle cramping, swelling in ankles or feet, itching around veins, skin discoloration, dry or irritated skin, skin ulcers near ankles, restless legs, pain after prolonged standing, fatigue in legs, tenderness along vein, skin tightness, vein inflammation (phlebitis), bleeding from veins, skin hardening",
+        "causes_and_risk_factors":"weak vein walls or valves, age, pregnancy, obesity, prolonged standing or sitting, genetics, hormonal changes",
+        "diagnosis_methods":"physical examination, Doppler ultrasound, venography (rarely)",
+        "prevention":"Avoid prolonged standing, exercise regularly, maintain healthy weight,"
+    },
+    {
+        "Disease":"AIDS",
+        "Description":"Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.",
+        "symptoms":"rapid weight loss, recurring fever, recurring night sweats, extreme fatigue, prolonged swelling of lymph nodes, diarrhea lasting more than a week, sores of the mouth, anus, or genitals, pneumonia, blotches on or under the skin, inside the mouth, nose, or eyelids, memory loss, depression, other neurologic disorders, persistent cough, shortness of breath, skin rashes, persistent yeast infections, persistent fever, chronic diarrhea, unexplained bruising or bleeding, skin lesions, persistent headaches, swollen glands, opportunistic infections, difficulty swallowing, persistent nausea, vomiting, confusion, seizures, vision problems",
+        "causes_and_risk_factors":"HIV infection, unprotected sexual contact, contaminated blood transfusions, sharing needles, mother-to-child transmission, weakened immunity",
+        "diagnosis_methods":"ELISA for HIV antibodies, Western blot, PCR for HIV RNA",
+        "prevention":"Practice safe sex, avoid sharing needles, blood safety,"
+    },
+    {
+        "Disease":"Paralysis (brain hemorrhage)",
+        "Description":"Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body.",
+        "symptoms":"sudden weakness, sudden numbness, paralysis on one side of the body, drooping face, drooping eyelid, difficulty speaking, slurred speech, confusion, loss of balance, dizziness, trouble walking, severe headache, vision problems, blurred vision, double vision, difficulty swallowing, loss of coordination, sudden fatigue, seizures, nausea, vomiting, loss of consciousness, altered mental status, trouble understanding speech, stiff neck, sensitivity to light, agitation, restlessness",
+        "causes_and_risk_factors":"stroke, high blood pressure, brain aneurysm, trauma, blood clot, bleeding disorders, smoking, alcohol, drug abuse, age",
+        "diagnosis_methods":"CT scan, MRI, neurological examination, angiography",
+        "prevention":"Control hypertension, diabetes, maintain healthy lifestyle, avoid smoking,"
+    },
+    {
+        "Disease":"Typhoid",
+        "Description":"An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.",
+        "symptoms":"prolonged high fever, weakness, fatigue, headache, abdominal pain, constipation, diarrhea, loss of appetite, nausea, vomiting, dry cough, sweating, chills, body aches, rash of flat, rose-colored spots, enlarged spleen, enlarged liver, confusion, delirium, lethargy, pallor, weight loss, malaise, abdominal bloating, coated tongue, nosebleeds, low blood pressure, rapid heartbeat, joint pain",
+        "causes_and_risk_factors":"Salmonella typhi infection, contaminated food or water, poor sanitation, close contact with infected person, travel to endemic areas",
+        "diagnosis_methods":"blood culture, Widal test, stool culture, PCR",
+        "prevention":"Drink safe water, maintain hygiene, get vaccinated,"
+    },
+    {
+        "Disease":"Hepatitis B",
+        "Description":"Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.",
+        "symptoms":"fatigue, weakness, fever, nausea, vomiting, loss of appetite, abdominal pain, dark urine, pale stools, jaundice, yellowing of skin, yellowing of eyes, joint pain, muscle aches, headache, mild rash, clay-colored stools, abdominal discomfort, malaise, diarrhea, itchy skin, enlarged liver, tenderness over liver, swelling, confusion (in severe cases), fluid retention, easy bruising, bleeding tendency",
+        "causes_and_risk_factors":"Hepatitis B virus infection, unprotected sex, contaminated needles, blood transfusions, mother-to-child transmission, occupational exposure, tattooing or piercings",
+        "diagnosis_methods":"HBsAg, Anti-HBc IgM, HBeAg, HBV DNA PCR, liver function tests",
+        "prevention":"Get vaccinated, avoid risky behaviors, safe blood practices,"
+    },
+    {
+        "Disease":"Fungal infection",
+        "Description":"In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi.",
+        "symptoms":"Itching, redness, rash, scaling, peeling skin, flaking, cracked skin, blisters, pustules, swelling, pain, burning sensation, discharge, foul odor, hair loss, nail discoloration, thickened nails, brittle nails, fever, chills, fatigue, cough, shortness of breath, chest pain, sinus congestion, headache, digestive issues, diarrhea, abdominal pain, oral white patches, soreness in mouth or throat, difficulty swallowing, genital itching, discharge, urinary discomfort",
+        "causes_and_risk_factors":"overgrowth of fungi (Candida, Aspergillus, dermatophytes), weakened immunity, diabetes, antibiotics overuse, warm and humid environment, poor hygiene",
+        "diagnosis_methods":"KOH smear, fungal culture, skin biopsy, blood tests (for systemic)",
+        "prevention":"Maintain hygiene, keep skin dry, avoid sharing personal items,"
+    },
+    {
+        "Disease":"Hepatitis C",
+        "Description":"Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.",
+        "symptoms":"Fatigue, fever, nausea, vomiting, loss of appetite, abdominal pain, dark urine, clay-colored stools, joint pain, muscle aches, jaundice (yellowing of skin and eyes), itchy skin, easy bruising or bleeding, confusion, swelling in legs or abdomen, weight loss, depression, mood changes, persistent tiredness, flu-like symptoms, liver enlargement, liver tenderness, spider-like blood vessels on skin, ascites, confusion or encephalopathy, sleep disturbances.",
+        "causes_and_risk_factors":"Hepatitis C virus infection, contaminated needles, blood transfusions (before screening), unprotected sex, mother-to-child transmission, intravenous drug use, tattooing or piercings",
+        "diagnosis_methods":"anti-HCV antibodies, HCV RNA PCR, liver function tests",
+        "prevention":"Avoid sharing needles, practice safe blood handling, safe sex,"
+    },
+    {
+        "Disease":"Migraine",
+        "Description":"A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.",
+        "symptoms":"Throbbing or pulsating headache, usually on one side of the head, sensitivity to light (photophobia), sensitivity to sound (phonophobia), sensitivity to smell, nausea, vomiting, blurred vision, visual disturbances (auras, flashing lights, zigzag lines), dizziness, fatigue, difficulty concentrating, mood changes, neck stiffness, irritability, yawning, food cravings, frequent urination, nasal congestion, tingling or numbness in face or extremities, difficulty speaking, scalp tenderness, lightheadedness, confusion.",
+        "causes_and_risk_factors":"genetic predisposition, hormonal changes, stress, certain foods (chocolate, caffeine, alcohol), dehydration, sleep disturbances, sensory stimuli, medications",
+        "diagnosis_methods":"clinical evaluation, medical history, neurological examination, MRI\/CT (to rule out other causes)",
+        "prevention":"Manage stress, maintain regular sleep, avoid triggers,"
+    },
+    {
+        "Disease":"Bronchial Asthma",
+        "Description":"Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.",
+        "symptoms":"Shortness of breath, wheezing, coughing (especially at night or early morning), chest tightness, chest pain, rapid breathing, difficulty speaking, fatigue, anxiety, restlessness, difficulty sleeping, pale or bluish lips, nasal flaring, use of accessory muscles for breathing, increased mucus production, frequent respiratory infections, decreased exercise tolerance, prolonged exhalation, breathlessness during physical activity.",
+        "causes_and_risk_factors":"allergens (pollen, dust, mold, pet dander), respiratory infections, cold air, exercise, air pollution, smoke, genetic predisposition, stress, occupational exposures",
+        "diagnosis_methods":"spirometry, peak flow measurement, methacholine challenge, allergy testing",
+        "prevention":"Avoid allergens, maintain clean environment, avoid smoking,"
+    },
+    {
+        "Disease":"Alcoholic hepatitis",
+        "Description":"Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol",
+        "symptoms":"Jaundice (yellowing of skin and eyes), fatigue, weakness, loss of appetite, nausea, vomiting, abdominal pain or tenderness (especially in the upper right abdomen), weight loss, fever, dark urine, pale or clay-colored stools, swelling in legs or abdomen (edema or ascites), confusion or mental changes (hepatic encephalopathy), easy bruising or bleeding, itching, spider-like blood vessels on skin, enlarged liver, tremors, poor sleep, dehydration, sweating, rapid heartbeat.",
+        "causes_and_risk_factors":"chronic heavy alcohol consumption, poor nutrition, genetic predisposition, obesity, coexisting liver disease, hepatitis infection",
+        "diagnosis_methods":"liver function tests, history of alcohol intake, imaging (ultrasound\/CT), liver biopsy",
+        "prevention":"Avoid excessive alcohol, maintain healthy diet, regular checkups,"
+    },
+    {
+        "Disease":"Jaundice",
+        "Description":"Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the \"morbus regius\" (the regal disease) in the belief that only the touch of a king could cure it",
+        "symptoms":"Yellowing of the skin, yellowing of the eyes (scleral icterus), dark urine, pale or clay-colored stools, fatigue, weakness, loss of appetite, nausea, vomiting, abdominal pain, itching (pruritus), fever, weight loss, confusion, headache, dizziness, rapid heartbeat, swelling in legs or abdomen, easy bruising or bleeding.",
+        "causes_and_risk_factors":"liver diseases (hepatitis, cirrhosis), bile duct obstruction, hemolysis, gallstones, genetic disorders, infections, certain medications, alcohol abuse",
+        "diagnosis_methods":"liver function tests, bilirubin levels, imaging (ultrasound\/CT), viral hepatitis markers",
+        "prevention":"Maintain hygiene, avoid contaminated food\/water,"
+    },
+    {
+        "Disease":"Hepatitis E",
+        "Description":"A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.",
+        "symptoms":"Fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain or discomfort, dark urine, pale or clay-colored stools, jaundice (yellowing of skin and eyes), joint pain, muscle aches, headache, itching (pruritus), mild diarrhea, malaise, weakness, enlarged liver, tenderness in upper right abdomen, confusion (in severe cases), dehydration.",
+        "causes_and_risk_factors":"Hepatitis E virus infection, contaminated water, poor sanitation, undercooked meat, travel to endemic areas, weakened immunity, pregnancy",
+        "diagnosis_methods":"IgM anti-HEV, HEV RNA PCR, liver function tests",
+        "prevention":"Drink safe water, maintain hygiene, avoid contaminated food,"
+    },
+    {
+        "Disease":"Dengue",
+        "Description":"an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. \u00e2\u20ac\u201d called also breakbone fever, dengue fever.",
+        "symptoms":"High fever, sudden onset fever, severe headache, pain behind the eyes, muscle pain, joint pain, bone pain, nausea, vomiting, rash, fatigue, weakness, swollen glands, abdominal pain, bleeding gums, nosebleeds, easy bruising, low blood pressure, rapid heartbeat, restlessness, dizziness, shock (in severe cases), dehydration, cold or clammy skin, confusion.",
+        "causes_and_risk_factors":"Dengue virus infection, Aedes mosquito bites, travel to endemic areas, previous dengue infection, weak immunity, stagnant water",
+        "diagnosis_methods":"NS1 antigen, IgM\/IgG antibodies, PCR, platelet count",
+        "prevention":"Avoid mosquito bites, eliminate stagnant water, use repellents,"
+    },
+    {
+        "Disease":"Hepatitis D",
+        "Description":"Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).",
+        "symptoms":"Fatigue, loss of appetite, nausea, vomiting, abdominal pain (especially upper right abdomen), jaundice (yellowing of skin and eyes), dark urine, pale or clay-colored stools, joint pain, muscle aches, fever, weakness, malaise, itching (pruritus), enlarged liver, tenderness in the liver area, confusion (in severe cases), easy bruising or bleeding, weight loss, flu-like symptoms.",
+        "causes_and_risk_factors":"Hepatitis D virus infection (requires Hepatitis B coinfection), intravenous drug use, unprotected sex, blood transfusions, unsafe medical procedures",
+        "diagnosis_methods":"anti-HDV antibodies, HDV RNA PCR, liver function tests",
+        "prevention":"Get vaccinated for Hepatitis B, avoid blood contact, practice safe sex,"
+    },
+    {
+        "Disease":"Heart attack",
+        "Description":"The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.",
+        "symptoms":"Chest pain or discomfort, pressure or tightness in chest, pain radiating to arm(s), neck, jaw, or back, shortness of breath, sweating, nausea, vomiting, lightheadedness, dizziness, fatigue, anxiety, palpitations, rapid heartbeat, indigestion or heartburn, cold clammy skin, fainting, coughing, weakness, restlessness.",
+        "causes_and_risk_factors":"atherosclerosis, high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, stress, age, family history, excessive alcohol",
+        "diagnosis_methods":"ECG, troponin levels, CK-MB, echocardiography, coronary angiography",
+        "prevention":"Maintain healthy lifestyle, control cholesterol\/blood pressure, exercise regularly,"
+    },
+    {
+        "Disease":"Pneumonia",
+        "Description":"Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.",
+        "symptoms":"Cough, phlegm or sputum production, fever, chills, shortness of breath, rapid breathing, chest pain (especially when breathing or coughing), fatigue, weakness, loss of appetite, sweating, nausea, vomiting, headache, muscle aches, confusion (especially in older adults), bluish lips or nails, wheezing, clammy or pale skin, low blood pressure, increased heart rate.",
+        "causes_and_risk_factors":"bacterial infection (Streptococcus pneumoniae), viral infection (influenza, RSV), fungal infection, weakened immunity, smoking, chronic diseases, aspiration, age (very young or elderly)",
+        "diagnosis_methods":"chest X-ray, sputum culture, blood tests, pulse oximetry, CT scan (if needed)",
+        "prevention":"Get vaccinated, maintain hygiene, avoid smoking,"
+    },
+    {
+        "Disease":"Arthritis",
+        "Description":"Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.",
+        "symptoms":"Joint pain, joint stiffness, swelling in joints, redness around joints, warmth in affected joints, decreased range of motion, tenderness in joints, fatigue, weakness, muscle aches, joint deformity, difficulty moving joints, morning stiffness, joint instability, fever (in some types), weight loss (in some types), bone erosion, nodules under the skin, limited mobility, crepitus (grating sensation in joints), inflammation.",
+        "causes_and_risk_factors":"joint injury, aging, genetic predisposition, autoimmune disorders (rheumatoid arthritis), obesity, repetitive stress, infections, metabolic disorders (gout)",
+        "diagnosis_methods":"physical examination, blood tests (ESR, CRP, rheumatoid factor, anti-CCP), X-ray, MRI",
+        "prevention":"Maintain healthy weight, regular exercise, avoid joint overuse,"
+    },
+    {
+        "Disease":"Gastroenteritis",
+        "Description":"Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .",
+        "symptoms":"Diarrhea, nausea, vomiting, abdominal pain, abdominal cramping, bloating, gas, fever, headache, fatigue, weakness, loss of appetite, dehydration, dry mouth, dizziness, muscle aches, chills, watery stools, urgency to have bowel movement, mucus in stools, blood in stools (in severe cases).",
+        "causes_and_risk_factors":"viral infection (norovirus, rotavirus), bacterial infection (E. coli, Salmonella), contaminated food or water, poor hygiene, weakened immunity, travel to endemic areas, parasites",
+        "diagnosis_methods":"stool analysis, stool culture, PCR (for viral causes), blood tests",
+        "prevention":"Drink safe water, maintain hand hygiene, avoid contaminated food,"
+    },
+    {
+        "Disease":"Tuberculosis",
+        "Description":"Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.",
+        "symptoms":"Persistent cough (lasting more than 3 weeks), coughing up blood or sputum, chest pain, fatigue, weakness, weight loss, loss of appetite, fever, night sweats, chills, shortness of breath, wheezing, hoarseness, swollen lymph nodes, chills, body aches, malaise, pallor, hemoptysis, fever spikes in the evening, prolonged illness.",
+        "causes_and_risk_factors":"Mycobacterium tuberculosis infection, close contact with infected person, weakened immunity (HIV), malnutrition, overcrowded living conditions, substance abuse, chronic diseases, travel to endemic areas",
+        "diagnosis_methods":"sputum smear, culture, GeneXpert PCR, chest X-ray, Mantoux test",
+        "prevention":"Get vaccinated (BCG), avoid close contact with TB patients, ensure good ventilation"
+    }
+]
