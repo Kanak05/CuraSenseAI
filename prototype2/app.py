@@ -3,7 +3,7 @@ import requests
 import textwrap
 
 # --- App Configuration ---
-st.set_page_config(page_title="Medical Health Assistant", page_icon="🩺", layout="wide")
+st.set_page_config(page_title="CuraSence AI - Medical Health Assistant", page_icon="🩺", layout="wide")
 
 # --- Backend API URL ---
 # IMPORTANT: Replace this with the public ngrok URL from your Colab notebook output
@@ -12,8 +12,8 @@ COLAB_API_URL = "https://0ddb5af31f39.ngrok-free.app/ask"
 # --- Main App Logic ---
 
 # Title and Disclaimer
-st.title("🩺 Medical Health Assistant")
-st.info("This frontend is powered by a backend running on Google Colab with a GPU.")
+st.title("🩺 CuraSence AI - Medical Health Assistant")
+# st.info("This frontend is powered by a backend running on Google Colab with a GPU.")
 st.warning("**Disclaimer:** I am an AI assistant and not a medical professional. Please consult a doctor for any health concerns.", icon="⚠️")
 
 # Initialize chat history
