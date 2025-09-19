@@ -5,7 +5,11 @@
         "symptoms":"rash, itching, hives, redness of skin, swelling of lips, swelling of face, swelling of tongue, fever, chills, shortness of breath, wheezing, cough, chest tightness, dizziness, lightheadedness, fainting, nausea, vomiting, diarrhea, abdominal pain, joint pain, muscle pain, fatigue, headache, blurred vision, jaundice, dark urine, pale stools, peeling skin, blistering skin, mouth ulcers, sore throat, confusion, agitation, irregular heartbeat, low blood pressure, high blood pressure, anaphylaxis",
         "causes_and_risk_factors":"certain medications, overuse of drugs, allergies to drugs, high doses, multiple drug interactions, genetic predisposition, liver or kidney dysfunction, age (elderly or very young), previous drug reactions",
         "diagnosis_methods":"clinical history, physical examination, allergy testing, skin patch test, blood tests, liver\/kidney function tests",
-        "prevention":"Avoid unnecessary medications, consult doctor before new drugs, monitor for side effects"
+        "prevention":"Avoid unnecessary medications, consult doctor before new drugs, monitor for side effects",
+        "Diet type":"Balanced, hypoallergenic",
+        "what to eat ":"Fruits, vegetables, whole grains",
+        "what to avoid ":"Processed foods, allergens",
+        "benefits":"Boosts recovery, reduces allergy risk"
     },
     {
         "Disease":"Malaria",
@@ -13,7 +17,11 @@
         "symptoms":"fever, chills, sweating, headache, nausea, vomiting, diarrhea, abdominal pain, muscle pain, joint pain, fatigue, weakness, cough, rapid breathing, rapid heart rate, loss of appetite, anemia, jaundice, enlarged spleen, confusion, seizures, coma",
         "causes_and_risk_factors":"Plasmodium parasite, mosquito bites (Anopheles), travel to endemic areas, weak immunity, poor mosquito control, stagnant water, low use of insect repellent or nets",
         "diagnosis_methods":"blood smear (thick and thin), rapid diagnostic test (RDT), PCR",
-        "prevention":"Use mosquito nets, insect repellents, eliminate stagnant water, take prophylactic medications if traveling to endemic areas"
+        "prevention":"Use mosquito nets, insect repellents, eliminate stagnant water, take prophylactic medications if traveling to endemic areas",
+        "Diet type":"High-carb, protein-rich",
+        "what to eat ":"Fruits, leafy greens, whole grains, lean protein",
+        "what to avoid ":"Oily, spicy food, alcohol",
+        "benefits":"Improves recovery, boosts energy"
     },
     {
         "Disease":"Allergy",
@@ -21,7 +29,11 @@
         "symptoms":"sneezing, runny nose, nasal congestion, itchy nose, itchy eyes, watery eyes, red eyes, swelling around eyes, itchy throat, sore throat, cough, wheezing, shortness of breath, chest tightness, skin rash, hives, itching, swelling of lips, swelling of tongue, swelling of face, dry skin, peeling skin, eczema flare-ups, nausea, vomiting, diarrhea, abdominal pain, dizziness, lightheadedness, fainting, anaphylaxis",
         "causes_and_risk_factors":"pollen, dust mites, animal dander, certain foods, insect stings, medications, latex, genetic predisposition, pollution, mold exposure, immune system hypersensitivity",
         "diagnosis_methods":"skin prick test, blood test for IgE, patch test, elimination diet",
-        "prevention":"Avoid known allergens, use hypoallergenic products, maintain clean environment,"
+        "prevention":"Avoid known allergens, use hypoallergenic products, maintain clean environment,",
+        "Diet type":"Hypoallergenic",
+        "what to eat ":"Rice, oats, hypoallergenic foods",
+        "what to avoid ":"Dairy (if intolerant), nuts (if allergic)",
+        "benefits":"Prevents allergic reactions"
     },
     {
         "Disease":"Hypothyroidism",
@@ -29,7 +41,11 @@
         "symptoms":"fatigue, weakness, weight gain, cold intolerance, dry skin, pale skin, puffy face, hoarseness, slow heart rate, constipation, depression, memory problems, slow thinking, difficulty concentrating, brittle hair, hair loss, coarse hair, thinning eyebrows, brittle nails, swelling of hands, swelling of feet, swelling of legs, puffiness around eyes, goiter, pale swollen tongue, husky voice, slow reflexes, joint pain, muscle aches, muscle stiffness, carpal tunnel syndrome, slow movements, puffy hands, low body temperature, swelling in ankles, swelling in feet, anemia, low appetite, puffy skin (myxedema), thickened skin, pale complexion, yellowish skin, infertility, menstrual irregularities, heavy periods, decreased sweating, slow speech, enlarged thyroid, dry brittle hair, puffy eyelids, slow growth (in children), poor school performance (in children), developmental delay (in infants), hoarse cry (in infants)",
         "causes_and_risk_factors":"iodine deficiency, Hashimoto\u2019s thyroiditis, thyroid surgery, radiation therapy, certain medications (lithium, amiodarone), congenital factors, autoimmune disorders",
         "diagnosis_methods":"TSH test, Free T4, Free T3, thyroid antibodies",
-        "prevention":"Regular checkups, maintain balanced diet, take prescribed thyroid medication,"
+        "prevention":"Regular checkups, maintain balanced diet, take prescribed thyroid medication,",
+        "Diet type":"Thyroid-supportive",
+        "what to eat ":"Iodized salt, eggs, fish, dairy",
+        "what to avoid ":"Processed soy, junk food",
+        "benefits":"Supports thyroid hormone production"
     },
     {
         "Disease":"Psoriasis",
@@ -37,7 +53,11 @@
         "symptoms":"red patches of skin, silvery white scales, thickened skin, dry skin, cracked skin, itching, burning sensation, soreness, stinging sensation, pain in affected areas, thickened nails, pitted nails, ridged nails, discolored nails, nail separation from nail bed, scalp flaking, dandruff-like scaling, joint pain, joint stiffness, swollen joints, fatigue",
         "causes_and_risk_factors":"genetic predisposition, immune system dysfunction, infections, stress, obesity, cold weather, smoking, alcohol consumption, certain medications (beta-blockers, lithium)",
         "diagnosis_methods":"physical examination, skin biopsy, medical history",
-        "prevention":"Avoid triggers like stress, maintain skin hygiene, follow treatment plan,"
+        "prevention":"Avoid triggers like stress, maintain skin hygiene, follow treatment plan,",
+        "Diet type":"Anti-inflammatory",
+        "what to eat ":"Omega-3 rich foods, fruits, green veggies",
+        "what to avoid ":"Junk food, red meat, alcohol",
+        "benefits":"Reduces inflammation and flare-ups"
     },
     {
         "Disease":"GERD",
@@ -45,7 +65,11 @@
         "symptoms":"heartburn, chest pain, regurgitation of food, regurgitation of sour liquid, bitter taste in mouth, difficulty swallowing, sensation of lump in throat, sore throat, hoarseness, chronic cough, asthma-like symptoms, wheezing, shortness of breath, bad breath, nausea, vomiting, bloating, burping, hiccups, dental erosion, disrupted sleep, worsening of symptoms at night, worsening of symptoms after meals",
         "causes_and_risk_factors":"weakened lower esophageal sphincter, obesity, pregnancy, hiatal hernia, smoking, alcohol, caffeine, fatty or spicy foods, delayed gastric emptying, certain medications (NSAIDs, calcium channel blockers)",
         "diagnosis_methods":"endoscopy, pH monitoring, esophageal manometry, barium swallow",
-        "prevention":"Avoid spicy\/fatty foods, eat smaller meals, avoid lying down after eating, maintain healthy weight,"
+        "prevention":"Avoid spicy\/fatty foods, eat smaller meals, avoid lying down after eating, maintain healthy weight,",
+        "Diet type":"Low-acid",
+        "what to eat ":"Bananas, oatmeal, lean meats",
+        "what to avoid ":"Spicy foods, citrus, caffeine",
+        "benefits":"Reduces acidity, eases digestion"
     },
     {
         "Disease":"Chronic cholestasis",
@@ -53,7 +77,11 @@
         "symptoms":"jaundice, yellowing of skin, yellowing of eyes, dark urine, pale stools, clay-colored stools, pruritus (itching), fatigue, weakness, loss of appetite, weight loss, nausea, vomiting, abdominal pain, right upper quadrant discomfort, enlarged liver, enlarged spleen, dry skin, xanthomas, xanthelasma, easy bruising, bleeding tendency, brittle nails, bone pain, osteoporosis, osteomalacia, fat-soluble vitamin deficiency, night blindness, rickets (in children), delayed growth (in children), impaired fertility",
         "causes_and_risk_factors":"bile duct obstruction, primary biliary cholangitis, liver diseases (hepatitis, cirrhosis), certain medications, infections, genetic disorders, autoimmune disorders, tumors, gallstones",
         "diagnosis_methods":"liver function tests, ultrasound, MRCP, liver biopsy",
-        "prevention":"Avoid alcohol, maintain healthy weight, follow medical advice,"
+        "prevention":"Avoid alcohol, maintain healthy weight, follow medical advice,",
+        "Diet type":"Liver-supportive",
+        "what to eat ":"Leafy greens, whole grains, citrus fruits",
+        "what to avoid ":"Fatty foods, fried items, alcohol",
+        "benefits":"Supports liver function"
     },
     {
         "Disease":"hepatitis A",
@@ -61,7 +89,11 @@
         "symptoms":"fever, fatigue, weakness, loss of appetite, nausea, vomiting, abdominal pain, right upper quadrant pain, diarrhea, dark urine, pale stools, jaundice, yellowing of skin, yellowing of eyes, joint pain, muscle pain, itching, headache, sore throat, clay-colored stools, weight loss, low-grade fever",
         "causes_and_risk_factors":"ingestion of contaminated food or water, poor sanitation, close contact with infected person, travel to endemic areas, raw or undercooked shellfish",
         "diagnosis_methods":"IgM anti-HAV antibody, liver function tests, PCR (rarely)",
-        "prevention":"Get vaccinated, practice good hygiene, avoid contaminated food\/water,"
+        "prevention":"Get vaccinated, practice good hygiene, avoid contaminated food\/water,",
+        "Diet type":"Liver-friendly",
+        "what to eat ":"Papaya, carrots, spinach, plenty of fluids",
+        "what to avoid ":"Oily, spicy, packaged food",
+        "benefits":"Helps liver recover faster"
     },
     {
         "Disease":"Osteoarthristis",
@@ -69,7 +101,11 @@
         "symptoms":"joint pain, joint stiffness, swelling of joints, tenderness in joints, decreased range of motion, grating sensation, crepitus, bony enlargement, joint deformity, joint instability, muscle weakness around joints, morning stiffness (lasting less than 30 minutes), pain that worsens with activity, pain that improves with rest, difficulty walking, difficulty climbing stairs, difficulty gripping objects, fatigue",
         "causes_and_risk_factors":"aging, joint injury, repetitive stress, obesity, genetics, gender (female), bone deformities, joint overuse, metabolic disorders",
         "diagnosis_methods":"X-ray, MRI, physical examination, joint aspiration",
-        "prevention":"Maintain healthy weight, regular exercise, avoid joint overuse,"
+        "prevention":"Maintain healthy weight, regular exercise, avoid joint overuse,",
+        "Diet type":"Anti-inflammatory",
+        "what to eat ":"Fish, nuts, leafy greens",
+        "what to avoid ":"Sugary foods, fried items",
+        "benefits":"Supports joint health"
     },
     {
         "Disease":"(vertigo) Paroymsal Positional Vertigo",
@@ -77,7 +113,11 @@
         "symptoms":"spinning sensation, dizziness, loss of balance, unsteadiness, nausea, vomiting, lightheadedness, blurred vision, abnormal eye movements (nystagmus), disorientation, motion sensitivity, headache, ringing in ears (tinnitus), difficulty concentrating, anxiety during episodes",
         "causes_and_risk_factors":"displacement of inner ear crystals (otoconia), head trauma, inner ear infections, age-related degeneration, certain vestibular disorders",
         "diagnosis_methods":"Dix-Hallpike maneuver, clinical history, vestibular testing",
-        "prevention":"Avoid sudden head movements, perform vestibular exercises,"
+        "prevention":"Avoid sudden head movements, perform vestibular exercises,",
+        "Diet type":"Balanced, vestibular-friendly",
+        "what to eat ":"Hydration, ginger, whole grains",
+        "what to avoid ":"Caffeine, alcohol, junk food",
+        "benefits":"Improves balance, reduces vertigo"
     },
     {
         "Disease":"Hypoglycemia",
@@ -85,7 +125,11 @@
         "symptoms":"shakiness, tremors, sweating, chills, clammy skin, nervousness, anxiety, irritability, confusion, difficulty concentrating, dizziness, lightheadedness, headache, blurred vision, double vision, slurred speech, tingling lips, tingling tongue, tingling fingers, weakness, fatigue, hunger, nausea, rapid heartbeat, palpitations, pale skin, lack of coordination, difficulty walking, strange behavior, mood changes, seizures, loss of consciousness, coma",
         "causes_and_risk_factors":"excessive insulin, diabetes medications, skipping meals, excessive alcohol intake, endocrine disorders, critical illnesses, hormone deficiencies, intense exercise",
         "diagnosis_methods":"blood glucose test, fasting test, oral glucose tolerance test, insulin and C-peptide levels",
-        "prevention":"Eat regular meals, avoid skipping meals, monitor blood sugar,"
+        "prevention":"Eat regular meals, avoid skipping meals, monitor blood sugar,",
+        "Diet type":"Glucose-regulating",
+        "what to eat ":"Fruits, whole grains, honey (quick sugar)",
+        "what to avoid ":"Refined carbs, alcohol",
+        "benefits":"Prevents fainting, stabilizes sugar"
     },
     {
         "Disease":"Acne",
@@ -93,7 +137,11 @@
         "symptoms":"blackheads, whiteheads, papules, pustules, nodules, cysts, redness, swelling, skin tenderness, pain in lesions, oily skin, clogged pores, scarring, dark spots, hyperpigmentation, pitted scars, thickened skin, skin sensitivity, psychological distress, low self-esteem",
         "causes_and_risk_factors":"hormonal changes (puberty, menstruation), excess sebum production, clogged pores, bacteria (Propionibacterium acnes), genetics, stress, certain medications, diet (high glycemic foods, dairy)",
         "diagnosis_methods":"physical examination, medical history, hormone tests (if severe)",
-        "prevention":"Maintain facial hygiene, avoid oily cosmetics, balanced diet,"
+        "prevention":"Maintain facial hygiene, avoid oily cosmetics, balanced diet,",
+        "Diet type":"Low-glycemic, anti-inflammatory",
+        "what to eat ":"Whole grains, fresh vegetables, green tea",
+        "what to avoid ":"Dairy (excess), oily junk food",
+        "benefits":"Prevents flare-ups, clearer skin"
     },
     {
         "Disease":"Diabetes",
@@ -101,7 +149,11 @@
         "symptoms":"frequent urination, excessive thirst, excessive hunger, unexplained weight loss, fatigue, weakness, blurred vision, slow wound healing, frequent infections, dry mouth, dry skin, itchy skin, numbness in hands, numbness in feet, tingling in hands, tingling in feet, recurrent gum infections, recurrent yeast infections, recurrent urinary tract infections, irritability, mood changes, headaches, dizziness, nausea, vomiting, fruity-smelling breath, abdominal pain, confusion, difficulty concentrating, poor circulation, darkened skin patches (acanthosis nigricans), decreased libido, erectile dysfunction",
         "causes_and_risk_factors":"genetic predisposition, obesity, physical inactivity, insulin resistance, poor diet, age, gestational diabetes history, autoimmune disorders (type 1)",
         "diagnosis_methods":"fasting blood sugar, HbA1c, oral glucose tolerance test, random blood sugar",
-        "prevention":"Healthy diet, regular exercise, maintain healthy weight, monitor blood sugar,"
+        "prevention":"Healthy diet, regular exercise, maintain healthy weight, monitor blood sugar,",
+        "Diet type":"Diabetic diet",
+        "what to eat ":"Leafy greens, beans, lentils, low-GI fruits",
+        "what to avoid ":"Sugary foods, refined carbs",
+        "benefits":"Controls blood sugar"
     },
     {
         "Disease":"Impetigo",
@@ -109,7 +161,11 @@
         "symptoms":"red sores, small blisters, fluid-filled blisters, ruptured blisters, honey-colored crusts, oozing sores, itching, soreness, skin redness, swelling around sores, painful lesions, spreading rash, clusters of lesions, facial sores (especially around nose and mouth), sores on arms, sores on legs, swollen lymph nodes, mild fever, general discomfort",
         "causes_and_risk_factors":"Staphylococcus aureus infection, Streptococcus pyogenes infection, poor hygiene, cuts or insect bites, warm and humid climate, crowded living conditions",
         "diagnosis_methods":"physical examination, bacterial culture, Gram staining",
-        "prevention":"Maintain hygiene, avoid contact with infected persons,"
+        "prevention":"Maintain hygiene, avoid contact with infected persons,",
+        "Diet type":"Immune-supportive",
+        "what to eat ":"Fruits, veggies, yogurt",
+        "what to avoid ":"Junk food, sugary foods",
+        "benefits":"Boosts healing, strengthens immunity"
     },
     {
         "Disease":"Hypertension",
@@ -117,7 +173,11 @@
         "symptoms":"headache, dizziness, lightheadedness, blurred vision, double vision, nosebleeds, shortness of breath, chest pain, palpitations, fatigue, weakness, confusion, nausea, vomiting, anxiety, restlessness, buzzing in ears (tinnitus), irregular heartbeat, sweating, trouble sleeping",
         "causes_and_risk_factors":"genetic predisposition, obesity, high salt intake, physical inactivity, smoking, stress, excessive alcohol, age, chronic kidney disease, endocrine disorders",
         "diagnosis_methods":"blood pressure measurement, ambulatory blood pressure monitoring, urine and blood tests (secondary causes)",
-        "prevention":"Reduce salt intake, exercise regularly, maintain healthy weight,"
+        "prevention":"Reduce salt intake, exercise regularly, maintain healthy weight,",
+        "Diet type":"Low-sodium, heart-healthy",
+        "what to eat ":"Fruits, vegetables, whole grains, nuts",
+        "what to avoid ":"Salty foods, fried foods, alcohol",
+        "benefits":"Lowers BP, protects heart"
     },
     {
         "Disease":"Peptic ulcer diseae",
@@ -125,7 +185,11 @@
         "symptoms":"burning stomach pain, gnawing abdominal pain, pain between meals, pain at night, bloating, fullness, early satiety, belching, nausea, vomiting, vomiting blood, black stools, dark tarry stools, weight loss, loss of appetite, heartburn, indigestion, chest discomfort, fatigue, anemia, pallor, dizziness, fainting",
         "causes_and_risk_factors":"Helicobacter pylori infection, long-term NSAID use, excessive alcohol, smoking, stress, spicy foods, genetic predisposition, Zollinger-Ellison syndrome",
         "diagnosis_methods":"endoscopy, H. pylori test (urea breath test, stool antigen, biopsy), barium swallow",
-        "prevention":"Avoid NSAIDs overuse, avoid spicy foods, manage stress,"
+        "prevention":"Avoid NSAIDs overuse, avoid spicy foods, manage stress,",
+        "Diet type":"Bland, low-acid",
+        "what to eat ":"Bananas, rice, boiled potatoes",
+        "what to avoid ":"Spicy foods, alcohol, fried food",
+        "benefits":"Heals stomach lining"
     },
     {
         "Disease":"Dimorphic hemorrhoids(piles)",
@@ -133,7 +197,11 @@
         "symptoms":"rectal bleeding, blood in stool, blood on toilet paper, anal pain, anal discomfort, anal itching, anal irritation, swelling around anus, lump near anus, mucus discharge, soiling of underwear, feeling of incomplete evacuation, prolapse of hemorrhoid, painful bowel movements, constipation, straining during stools, tenderness around anus, throbbing sensation, difficulty sitting, anemia (from chronic bleeding)",
         "causes_and_risk_factors":"chronic constipation, straining during bowel movements, prolonged sitting, pregnancy, obesity, low fiber diet, aging, portal hypertension",
         "diagnosis_methods":"physical examination, anoscopy, sigmoidoscopy, colonoscopy (if needed)",
-        "prevention":"High-fiber diet, avoid straining, drink plenty of water,"
+        "prevention":"High-fiber diet, avoid straining, drink plenty of water,",
+        "Diet type":"High-fiber",
+        "what to eat ":"Whole grains, fruits, leafy greens, water",
+        "what to avoid ":"Fried food, spicy junk, processed meats",
+        "benefits":"Prevents constipation, reduces strain"
     },
     {
         "Disease":"Common Cold",
@@ -141,7 +209,11 @@
         "symptoms":"runny nose, nasal congestion, sneezing, sore throat, scratchy throat, coughing, mild headache, mild fever, fatigue, tiredness, watery eyes, itchy eyes, post-nasal drip, mild body aches, chills, loss of appetite, hoarseness, mild sinus pressure, ear congestion, irritability, mild nausea",
         "causes_and_risk_factors":"rhinovirus infection, coronavirus infection, adenovirus, weakened immunity, close contact with infected person, seasonal changes, crowded places, poor hygiene",
         "diagnosis_methods":"clinical examination, medical history, throat\/nasal swab (rarely)",
-        "prevention":"Wash hands regularly, avoid close contact with infected persons,"
+        "prevention":"Wash hands regularly, avoid close contact with infected persons,",
+        "Diet type":"Immune-boosting",
+        "what to eat ":"Citrus fruits, ginger, garlic, turmeric",
+        "what to avoid ":"Cold drinks, fried foods",
+        "benefits":"Boosts immunity"
     },
     {
         "Disease":"Chicken pox",
@@ -149,7 +221,11 @@
         "symptoms":"fever, fatigue, tiredness, loss of appetite, headache, body aches, itchy rash, red spots, small fluid-filled blisters, blisters that crust over, rash starting on face, rash spreading to trunk, rash spreading to arms and legs, sore throat, cough, runny nose, irritability, mild abdominal discomfort, swollen lymph nodes, malaise, chills, secondary bacterial infection of blisters",
         "causes_and_risk_factors":"Varicella-zoster virus infection, exposure to infected person, weakened immunity, not vaccinated",
         "diagnosis_methods":"clinical examination, history of exposure, PCR (rarely), serology",
-        "prevention":"Get vaccinated, avoid contact with infected persons,"
+        "prevention":"Get vaccinated, avoid contact with infected persons,",
+        "Diet type":"Soothing, immune-supportive",
+        "what to eat ":"Oats, fruits, coconut water, soups",
+        "what to avoid ":"Fried foods, caffeine, spicy food",
+        "benefits":"Reduces itching, speeds recovery"
     },
     {
         "Disease":"Cervical spondylosis",
@@ -157,7 +233,11 @@
         "symptoms":"neck pain, neck stiffness, shoulder pain, arm pain, numbness in arms, tingling in arms, weakness in arms, headaches, dizziness, vertigo, loss of balance, fatigue, muscle spasms, reduced range of motion in neck, grinding or cracking sound in neck, difficulty turning head, pain radiating to upper back, pain radiating to hands, difficulty walking, clumsiness in hands, difficulty with fine motor skills, neck swelling, tenderness in neck muscles, radiating pain to chest",
         "causes_and_risk_factors":"age-related wear and tear, poor posture, repetitive neck movements, neck injuries, obesity, genetics, smoking, sedentary lifestyle",
         "diagnosis_methods":"X-ray, MRI, CT scan, physical examination, neurological tests",
-        "prevention":"Maintain correct posture, regular neck\/back exercises,"
+        "prevention":"Maintain correct posture, regular neck\/back exercises,",
+        "Diet type":"Anti-inflammatory",
+        "what to eat ":"Milk, almonds, turmeric, green leafy vegetables",
+        "what to avoid ":"Spicy, fried, oily foods",
+        "benefits":"Reduces stiffness, supports bones"
     },
     {
         "Disease":"Hyperthyroidism",
@@ -165,7 +245,11 @@
         "symptoms":"weight loss, increased appetite, rapid heartbeat, palpitations, irregular heartbeat, nervousness, anxiety, irritability, tremors, shakiness, sweating, heat intolerance, warm skin, hair thinning, hair loss, brittle hair, fatigue, muscle weakness, frequent bowel movements, diarrhea, sleep disturbances, difficulty sleeping, bulging eyes (exophthalmos), eye irritation, blurred vision, double vision, goiter, enlarged thyroid, swelling in neck, rapid reflexes, menstrual irregularities, reduced menstrual flow, increased thirst, frequent urination, hand tremors, restlessness, emotional lability",
         "causes_and_risk_factors":"Graves\u2019 disease, thyroid nodules, excessive iodine intake, autoimmune disorders, thyroid inflammation (thyroiditis), certain medications, genetics",
         "diagnosis_methods":"TSH test, Free T4, Free T3, thyroid scan, thyroid antibodies",
-        "prevention":"Regular checkups, follow medication plan, avoid excess iodine,"
+        "prevention":"Regular checkups, follow medication plan, avoid excess iodine,",
+        "Diet type":"Thyroid-calming",
+        "what to eat ":"Cruciferous veggies (broccoli, cabbage), dairy, oats",
+        "what to avoid ":"Caffeine, spicy food, alcohol",
+        "benefits":"Controls thyroid hormone levels"
     },
     {
         "Disease":"Urinary tract infection",
@@ -173,7 +257,11 @@
         "symptoms":"frequent urination, urgent urination, burning sensation during urination, painful urination, cloudy urine, foul-smelling urine, blood in urine, lower abdominal pain, pelvic pain, flank pain, back pain, fever, chills, nausea, vomiting, fatigue, malaise, lower urinary tract discomfort, incomplete bladder emptying, urinary incontinence, nocturia (frequent urination at night), urgency with little urine, confusion (especially in elderly), strong-smelling urine",
         "causes_and_risk_factors":"E. coli infection, poor hygiene, sexual activity, urinary retention, catheters, diabetes, weakened immunity, kidney stones, female anatomy",
         "diagnosis_methods":"urine analysis, urine culture, urine microscopy, imaging (if recurrent)",
-        "prevention":"Drink plenty of water, maintain hygiene, urinate regularly,"
+        "prevention":"Drink plenty of water, maintain hygiene, urinate regularly,",
+        "Diet type":"Hydration-focused",
+        "what to eat ":"Cranberry juice, cucumber, watermelon, barley water",
+        "what to avoid ":"Spicy food, caffeine, carbonated drinks",
+        "benefits":"Flushes bacteria, prevents recurrence"
     },
     {
         "Disease":"Varicose veins",
@@ -181,7 +269,11 @@
         "symptoms":"visible twisted veins, bulging veins, blue or dark purple veins, aching legs, heaviness in legs, throbbing in legs, burning sensation in legs, muscle cramping, swelling in ankles or feet, itching around veins, skin discoloration, dry or irritated skin, skin ulcers near ankles, restless legs, pain after prolonged standing, fatigue in legs, tenderness along vein, skin tightness, vein inflammation (phlebitis), bleeding from veins, skin hardening",
         "causes_and_risk_factors":"weak vein walls or valves, age, pregnancy, obesity, prolonged standing or sitting, genetics, hormonal changes",
         "diagnosis_methods":"physical examination, Doppler ultrasound, venography (rarely)",
-        "prevention":"Avoid prolonged standing, exercise regularly, maintain healthy weight,"
+        "prevention":"Avoid prolonged standing, exercise regularly, maintain healthy weight,",
+        "Diet type":"Circulation-friendly",
+        "what to eat ":"Fruits, vegetables, high-fiber foods, water",
+        "what to avoid ":"Fried foods, alcohol, processed foods",
+        "benefits":"Improves circulation, reduces vein pressure"
     },
     {
         "Disease":"AIDS",
@@ -189,7 +281,11 @@
         "symptoms":"rapid weight loss, recurring fever, recurring night sweats, extreme fatigue, prolonged swelling of lymph nodes, diarrhea lasting more than a week, sores of the mouth, anus, or genitals, pneumonia, blotches on or under the skin, inside the mouth, nose, or eyelids, memory loss, depression, other neurologic disorders, persistent cough, shortness of breath, skin rashes, persistent yeast infections, persistent fever, chronic diarrhea, unexplained bruising or bleeding, skin lesions, persistent headaches, swollen glands, opportunistic infections, difficulty swallowing, persistent nausea, vomiting, confusion, seizures, vision problems",
         "causes_and_risk_factors":"HIV infection, unprotected sexual contact, contaminated blood transfusions, sharing needles, mother-to-child transmission, weakened immunity",
         "diagnosis_methods":"ELISA for HIV antibodies, Western blot, PCR for HIV RNA",
-        "prevention":"Practice safe sex, avoid sharing needles, blood safety,"
+        "prevention":"Practice safe sex, avoid sharing needles, blood safety,",
+        "Diet type":"Immune-boosting",
+        "what to eat ":"Fruits, vegetables, lean protein, nuts",
+        "what to avoid ":"Raw\/undercooked meat, alcohol, junk food",
+        "benefits":"Strengthens immunity"
     },
     {
         "Disease":"Paralysis (brain hemorrhage)",
@@ -197,7 +293,11 @@
         "symptoms":"sudden weakness, sudden numbness, paralysis on one side of the body, drooping face, drooping eyelid, difficulty speaking, slurred speech, confusion, loss of balance, dizziness, trouble walking, severe headache, vision problems, blurred vision, double vision, difficulty swallowing, loss of coordination, sudden fatigue, seizures, nausea, vomiting, loss of consciousness, altered mental status, trouble understanding speech, stiff neck, sensitivity to light, agitation, restlessness",
         "causes_and_risk_factors":"stroke, high blood pressure, brain aneurysm, trauma, blood clot, bleeding disorders, smoking, alcohol, drug abuse, age",
         "diagnosis_methods":"CT scan, MRI, neurological examination, angiography",
-        "prevention":"Control hypertension, diabetes, maintain healthy lifestyle, avoid smoking,"
+        "prevention":"Control hypertension, diabetes, maintain healthy lifestyle, avoid smoking,",
+        "Diet type":"Neuro-supportive",
+        "what to eat ":"Fish, nuts, leafy greens, whole grains",
+        "what to avoid ":"Fried food, alcohol, processed food",
+        "benefits":"Supports brain and nerve health"
     },
     {
         "Disease":"Typhoid",
@@ -205,7 +305,11 @@
         "symptoms":"prolonged high fever, weakness, fatigue, headache, abdominal pain, constipation, diarrhea, loss of appetite, nausea, vomiting, dry cough, sweating, chills, body aches, rash of flat, rose-colored spots, enlarged spleen, enlarged liver, confusion, delirium, lethargy, pallor, weight loss, malaise, abdominal bloating, coated tongue, nosebleeds, low blood pressure, rapid heartbeat, joint pain",
         "causes_and_risk_factors":"Salmonella typhi infection, contaminated food or water, poor sanitation, close contact with infected person, travel to endemic areas",
         "diagnosis_methods":"blood culture, Widal test, stool culture, PCR",
-        "prevention":"Drink safe water, maintain hygiene, get vaccinated,"
+        "prevention":"Drink safe water, maintain hygiene, get vaccinated,",
+        "Diet type":"Easily digestible",
+        "what to eat ":"Soups, boiled rice, bananas, coconut water",
+        "what to avoid ":"Spicy, oily foods, alcohol",
+        "benefits":"Boosts recovery, easy digestion"
     },
     {
         "Disease":"Hepatitis B",
@@ -213,7 +317,11 @@
         "symptoms":"fatigue, weakness, fever, nausea, vomiting, loss of appetite, abdominal pain, dark urine, pale stools, jaundice, yellowing of skin, yellowing of eyes, joint pain, muscle aches, headache, mild rash, clay-colored stools, abdominal discomfort, malaise, diarrhea, itchy skin, enlarged liver, tenderness over liver, swelling, confusion (in severe cases), fluid retention, easy bruising, bleeding tendency",
         "causes_and_risk_factors":"Hepatitis B virus infection, unprotected sex, contaminated needles, blood transfusions, mother-to-child transmission, occupational exposure, tattooing or piercings",
         "diagnosis_methods":"HBsAg, Anti-HBc IgM, HBeAg, HBV DNA PCR, liver function tests",
-        "prevention":"Get vaccinated, avoid risky behaviors, safe blood practices,"
+        "prevention":"Get vaccinated, avoid risky behaviors, safe blood practices,",
+        "Diet type":"Liver-protective",
+        "what to eat ":"Leafy greens, whole grains, papaya, carrots",
+        "what to avoid ":"Alcohol, fried foods, fatty foods",
+        "benefits":"Supports liver recovery"
     },
     {
         "Disease":"Fungal infection",
@@ -221,7 +329,11 @@
         "symptoms":"Itching, redness, rash, scaling, peeling skin, flaking, cracked skin, blisters, pustules, swelling, pain, burning sensation, discharge, foul odor, hair loss, nail discoloration, thickened nails, brittle nails, fever, chills, fatigue, cough, shortness of breath, chest pain, sinus congestion, headache, digestive issues, diarrhea, abdominal pain, oral white patches, soreness in mouth or throat, difficulty swallowing, genital itching, discharge, urinary discomfort",
         "causes_and_risk_factors":"overgrowth of fungi (Candida, Aspergillus, dermatophytes), weakened immunity, diabetes, antibiotics overuse, warm and humid environment, poor hygiene",
         "diagnosis_methods":"KOH smear, fungal culture, skin biopsy, blood tests (for systemic)",
-        "prevention":"Maintain hygiene, keep skin dry, avoid sharing personal items,"
+        "prevention":"Maintain hygiene, keep skin dry, avoid sharing personal items,",
+        "Diet type":"Anti-fungal supportive",
+        "what to eat ":"Garlic, yogurt, turmeric, leafy greens",
+        "what to avoid ":"Sugary foods, fried foods",
+        "benefits":"Fights fungal growth naturally"
     },
     {
         "Disease":"Hepatitis C",
@@ -229,7 +341,11 @@
         "symptoms":"Fatigue, fever, nausea, vomiting, loss of appetite, abdominal pain, dark urine, clay-colored stools, joint pain, muscle aches, jaundice (yellowing of skin and eyes), itchy skin, easy bruising or bleeding, confusion, swelling in legs or abdomen, weight loss, depression, mood changes, persistent tiredness, flu-like symptoms, liver enlargement, liver tenderness, spider-like blood vessels on skin, ascites, confusion or encephalopathy, sleep disturbances.",
         "causes_and_risk_factors":"Hepatitis C virus infection, contaminated needles, blood transfusions (before screening), unprotected sex, mother-to-child transmission, intravenous drug use, tattooing or piercings",
         "diagnosis_methods":"anti-HCV antibodies, HCV RNA PCR, liver function tests",
-        "prevention":"Avoid sharing needles, practice safe blood handling, safe sex,"
+        "prevention":"Avoid sharing needles, practice safe blood handling, safe sex,",
+        "Diet type":"Liver-supportive",
+        "what to eat ":"Leafy greens, citrus fruits, whole grains",
+        "what to avoid ":"Alcohol, fried foods, fatty items",
+        "benefits":"Protects liver, improves function"
     },
     {
         "Disease":"Migraine",
@@ -237,7 +353,11 @@
         "symptoms":"Throbbing or pulsating headache, usually on one side of the head, sensitivity to light (photophobia), sensitivity to sound (phonophobia), sensitivity to smell, nausea, vomiting, blurred vision, visual disturbances (auras, flashing lights, zigzag lines), dizziness, fatigue, difficulty concentrating, mood changes, neck stiffness, irritability, yawning, food cravings, frequent urination, nasal congestion, tingling or numbness in face or extremities, difficulty speaking, scalp tenderness, lightheadedness, confusion.",
         "causes_and_risk_factors":"genetic predisposition, hormonal changes, stress, certain foods (chocolate, caffeine, alcohol), dehydration, sleep disturbances, sensory stimuli, medications",
         "diagnosis_methods":"clinical evaluation, medical history, neurological examination, MRI\/CT (to rule out other causes)",
-        "prevention":"Manage stress, maintain regular sleep, avoid triggers,"
+        "prevention":"Manage stress, maintain regular sleep, avoid triggers,",
+        "Diet type":"Trigger-free diet",
+        "what to eat ":"Oats, almonds, magnesium-rich foods",
+        "what to avoid ":"Caffeine, chocolate, processed foods",
+        "benefits":"Reduces migraine attacks"
     },
     {
         "Disease":"Bronchial Asthma",
@@ -245,7 +365,11 @@
         "symptoms":"Shortness of breath, wheezing, coughing (especially at night or early morning), chest tightness, chest pain, rapid breathing, difficulty speaking, fatigue, anxiety, restlessness, difficulty sleeping, pale or bluish lips, nasal flaring, use of accessory muscles for breathing, increased mucus production, frequent respiratory infections, decreased exercise tolerance, prolonged exhalation, breathlessness during physical activity.",
         "causes_and_risk_factors":"allergens (pollen, dust, mold, pet dander), respiratory infections, cold air, exercise, air pollution, smoke, genetic predisposition, stress, occupational exposures",
         "diagnosis_methods":"spirometry, peak flow measurement, methacholine challenge, allergy testing",
-        "prevention":"Avoid allergens, maintain clean environment, avoid smoking,"
+        "prevention":"Avoid allergens, maintain clean environment, avoid smoking,",
+        "Diet type":"Anti-inflammatory",
+        "what to eat ":"Fruits, vegetables, omega-3 foods",
+        "what to avoid ":"Cold drinks, fried foods, allergens",
+        "benefits":"Improves lung function, reduces inflammation"
     },
     {
         "Disease":"Alcoholic hepatitis",
@@ -253,7 +377,11 @@
         "symptoms":"Jaundice (yellowing of skin and eyes), fatigue, weakness, loss of appetite, nausea, vomiting, abdominal pain or tenderness (especially in the upper right abdomen), weight loss, fever, dark urine, pale or clay-colored stools, swelling in legs or abdomen (edema or ascites), confusion or mental changes (hepatic encephalopathy), easy bruising or bleeding, itching, spider-like blood vessels on skin, enlarged liver, tremors, poor sleep, dehydration, sweating, rapid heartbeat.",
         "causes_and_risk_factors":"chronic heavy alcohol consumption, poor nutrition, genetic predisposition, obesity, coexisting liver disease, hepatitis infection",
         "diagnosis_methods":"liver function tests, history of alcohol intake, imaging (ultrasound\/CT), liver biopsy",
-        "prevention":"Avoid excessive alcohol, maintain healthy diet, regular checkups,"
+        "prevention":"Avoid excessive alcohol, maintain healthy diet, regular checkups,",
+        "Diet type":"Liver-healing",
+        "what to eat ":"Green leafy vegetables, fruits, grains",
+        "what to avoid ":"Alcohol, fried foods, processed meats",
+        "benefits":"Supports liver healing"
     },
     {
         "Disease":"Jaundice",
@@ -261,7 +389,11 @@
         "symptoms":"Yellowing of the skin, yellowing of the eyes (scleral icterus), dark urine, pale or clay-colored stools, fatigue, weakness, loss of appetite, nausea, vomiting, abdominal pain, itching (pruritus), fever, weight loss, confusion, headache, dizziness, rapid heartbeat, swelling in legs or abdomen, easy bruising or bleeding.",
         "causes_and_risk_factors":"liver diseases (hepatitis, cirrhosis), bile duct obstruction, hemolysis, gallstones, genetic disorders, infections, certain medications, alcohol abuse",
         "diagnosis_methods":"liver function tests, bilirubin levels, imaging (ultrasound\/CT), viral hepatitis markers",
-        "prevention":"Maintain hygiene, avoid contaminated food\/water,"
+        "prevention":"Maintain hygiene, avoid contaminated food\/water,",
+        "Diet type":"Liver-friendly",
+        "what to eat ":"Sugarcane juice, barley water, papaya, spinach",
+        "what to avoid ":"Oily, spicy foods, alcohol",
+        "benefits":"Speeds recovery, supports liver health"
     },
     {
         "Disease":"Hepatitis E",
@@ -269,7 +401,11 @@
         "symptoms":"Fever, fatigue, loss of appetite, nausea, vomiting, abdominal pain or discomfort, dark urine, pale or clay-colored stools, jaundice (yellowing of skin and eyes), joint pain, muscle aches, headache, itching (pruritus), mild diarrhea, malaise, weakness, enlarged liver, tenderness in upper right abdomen, confusion (in severe cases), dehydration.",
         "causes_and_risk_factors":"Hepatitis E virus infection, contaminated water, poor sanitation, undercooked meat, travel to endemic areas, weakened immunity, pregnancy",
         "diagnosis_methods":"IgM anti-HEV, HEV RNA PCR, liver function tests",
-        "prevention":"Drink safe water, maintain hygiene, avoid contaminated food,"
+        "prevention":"Drink safe water, maintain hygiene, avoid contaminated food,",
+        "Diet type":"Liver-protective",
+        "what to eat ":"Leafy greens, fresh fruits, whole grains",
+        "what to avoid ":"Alcohol, fried foods, junk food",
+        "benefits":"Liver detoxification"
     },
     {
         "Disease":"Dengue",
@@ -277,7 +413,11 @@
         "symptoms":"High fever, sudden onset fever, severe headache, pain behind the eyes, muscle pain, joint pain, bone pain, nausea, vomiting, rash, fatigue, weakness, swollen glands, abdominal pain, bleeding gums, nosebleeds, easy bruising, low blood pressure, rapid heartbeat, restlessness, dizziness, shock (in severe cases), dehydration, cold or clammy skin, confusion.",
         "causes_and_risk_factors":"Dengue virus infection, Aedes mosquito bites, travel to endemic areas, previous dengue infection, weak immunity, stagnant water",
         "diagnosis_methods":"NS1 antigen, IgM\/IgG antibodies, PCR, platelet count",
-        "prevention":"Avoid mosquito bites, eliminate stagnant water, use repellents,"
+        "prevention":"Avoid mosquito bites, eliminate stagnant water, use repellents,",
+        "Diet type":"Immune-boosting",
+        "what to eat ":"Papaya, kiwi, pomegranate, fluids",
+        "what to avoid ":"Oily, junk food, caffeine",
+        "benefits":"Boosts platelet count, speeds recovery"
     },
     {
         "Disease":"Hepatitis D",
@@ -285,7 +425,11 @@
         "symptoms":"Fatigue, loss of appetite, nausea, vomiting, abdominal pain (especially upper right abdomen), jaundice (yellowing of skin and eyes), dark urine, pale or clay-colored stools, joint pain, muscle aches, fever, weakness, malaise, itching (pruritus), enlarged liver, tenderness in the liver area, confusion (in severe cases), easy bruising or bleeding, weight loss, flu-like symptoms.",
         "causes_and_risk_factors":"Hepatitis D virus infection (requires Hepatitis B coinfection), intravenous drug use, unprotected sex, blood transfusions, unsafe medical procedures",
         "diagnosis_methods":"anti-HDV antibodies, HDV RNA PCR, liver function tests",
-        "prevention":"Get vaccinated for Hepatitis B, avoid blood contact, practice safe sex,"
+        "prevention":"Get vaccinated for Hepatitis B, avoid blood contact, practice safe sex,",
+        "Diet type":"Liver-friendly",
+        "what to eat ":"Whole grains, fruits, vegetables",
+        "what to avoid ":"Alcohol, processed foods",
+        "benefits":"Protects liver function"
     },
     {
         "Disease":"Heart attack",
@@ -293,7 +437,11 @@
         "symptoms":"Chest pain or discomfort, pressure or tightness in chest, pain radiating to arm(s), neck, jaw, or back, shortness of breath, sweating, nausea, vomiting, lightheadedness, dizziness, fatigue, anxiety, palpitations, rapid heartbeat, indigestion or heartburn, cold clammy skin, fainting, coughing, weakness, restlessness.",
         "causes_and_risk_factors":"atherosclerosis, high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, stress, age, family history, excessive alcohol",
         "diagnosis_methods":"ECG, troponin levels, CK-MB, echocardiography, coronary angiography",
-        "prevention":"Maintain healthy lifestyle, control cholesterol\/blood pressure, exercise regularly,"
+        "prevention":"Maintain healthy lifestyle, control cholesterol\/blood pressure, exercise regularly,",
+        "Diet type":"Heart-healthy",
+        "what to eat ":"Oats, walnuts, fruits, olive oil, fish",
+        "what to avoid ":"Red meat, fried food, excess salt",
+        "benefits":"Protects heart, reduces cholesterol"
     },
     {
         "Disease":"Pneumonia",
@@ -301,7 +449,11 @@
         "symptoms":"Cough, phlegm or sputum production, fever, chills, shortness of breath, rapid breathing, chest pain (especially when breathing or coughing), fatigue, weakness, loss of appetite, sweating, nausea, vomiting, headache, muscle aches, confusion (especially in older adults), bluish lips or nails, wheezing, clammy or pale skin, low blood pressure, increased heart rate.",
         "causes_and_risk_factors":"bacterial infection (Streptococcus pneumoniae), viral infection (influenza, RSV), fungal infection, weakened immunity, smoking, chronic diseases, aspiration, age (very young or elderly)",
         "diagnosis_methods":"chest X-ray, sputum culture, blood tests, pulse oximetry, CT scan (if needed)",
-        "prevention":"Get vaccinated, maintain hygiene, avoid smoking,"
+        "prevention":"Get vaccinated, maintain hygiene, avoid smoking,",
+        "Diet type":"Immune-boosting",
+        "what to eat ":"Soups, citrus fruits, garlic, ginger",
+        "what to avoid ":"Oily, fried, cold foods",
+        "benefits":"Boosts recovery, strengthens lungs"
     },
     {
         "Disease":"Arthritis",
@@ -309,7 +461,11 @@
         "symptoms":"Joint pain, joint stiffness, swelling in joints, redness around joints, warmth in affected joints, decreased range of motion, tenderness in joints, fatigue, weakness, muscle aches, joint deformity, difficulty moving joints, morning stiffness, joint instability, fever (in some types), weight loss (in some types), bone erosion, nodules under the skin, limited mobility, crepitus (grating sensation in joints), inflammation.",
         "causes_and_risk_factors":"joint injury, aging, genetic predisposition, autoimmune disorders (rheumatoid arthritis), obesity, repetitive stress, infections, metabolic disorders (gout)",
         "diagnosis_methods":"physical examination, blood tests (ESR, CRP, rheumatoid factor, anti-CCP), X-ray, MRI",
-        "prevention":"Maintain healthy weight, regular exercise, avoid joint overuse,"
+        "prevention":"Maintain healthy weight, regular exercise, avoid joint overuse,",
+        "Diet type":"Anti-inflammatory",
+        "what to eat ":"Fish, turmeric milk, green leafy vegetables",
+        "what to avoid ":"Sugary foods, red meat, fried food",
+        "benefits":"Reduces joint pain, supports mobility"
     },
     {
         "Disease":"Gastroenteritis",
@@ -317,7 +473,11 @@
         "symptoms":"Diarrhea, nausea, vomiting, abdominal pain, abdominal cramping, bloating, gas, fever, headache, fatigue, weakness, loss of appetite, dehydration, dry mouth, dizziness, muscle aches, chills, watery stools, urgency to have bowel movement, mucus in stools, blood in stools (in severe cases).",
         "causes_and_risk_factors":"viral infection (norovirus, rotavirus), bacterial infection (E. coli, Salmonella), contaminated food or water, poor hygiene, weakened immunity, travel to endemic areas, parasites",
         "diagnosis_methods":"stool analysis, stool culture, PCR (for viral causes), blood tests",
-        "prevention":"Drink safe water, maintain hand hygiene, avoid contaminated food,"
+        "prevention":"Drink safe water, maintain hand hygiene, avoid contaminated food,",
+        "Diet type":"Gut-soothing",
+        "what to eat ":"Rice water, bananas, apples, curd",
+        "what to avoid ":"Spicy food, oily food, alcohol",
+        "benefits":"Hydrates and restores gut health"
     },
     {
         "Disease":"Tuberculosis",
@@ -325,6 +485,10 @@
         "symptoms":"Persistent cough (lasting more than 3 weeks), coughing up blood or sputum, chest pain, fatigue, weakness, weight loss, loss of appetite, fever, night sweats, chills, shortness of breath, wheezing, hoarseness, swollen lymph nodes, chills, body aches, malaise, pallor, hemoptysis, fever spikes in the evening, prolonged illness.",
         "causes_and_risk_factors":"Mycobacterium tuberculosis infection, close contact with infected person, weakened immunity (HIV), malnutrition, overcrowded living conditions, substance abuse, chronic diseases, travel to endemic areas",
         "diagnosis_methods":"sputum smear, culture, GeneXpert PCR, chest X-ray, Mantoux test",
-        "prevention":"Get vaccinated (BCG), avoid close contact with TB patients, ensure good ventilation"
+        "prevention":"Get vaccinated (BCG), avoid close contact with TB patients, ensure good ventilation",
+        "Diet type":"Immune-supportive, high-protein",
+        "what to eat ":"Eggs, milk, pulses, leafy greens, nuts",
+        "what to avoid ":"Fried food, alcohol, processed foods",
+        "benefits":"Boosts immunity, improves recovery"
     }
 ]
